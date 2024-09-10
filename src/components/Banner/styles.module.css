@@ -1,0 +1,21 @@
+.banner_container {
+  background-image: url("../../assets/images/bg_banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top: 80px;
+  padding-left: 40px;
+}
+
+.banner_title {
+  font-size: 96px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 1.1;
+  margin-bottom: 40px;
+}
+button {
+  width: 218px;
+  height: 58px;
+  margin-bottom: 210px;
+}
